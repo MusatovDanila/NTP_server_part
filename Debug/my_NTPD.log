@@ -1,0 +1,3 @@
+﻿  ntp_msg.cpp
+c:\users\danila\source\repos\my_ntpd\my_ntpd\ntp_msg.cpp(128): warning C4244: инициализация: преобразование "ULONGLONG" в "double", возможна потеря данных
+  my_NTPD.vcxproj -> C:\Users\Danila\source\repos\my_NTPD\Debug\my_NTPD.exe
